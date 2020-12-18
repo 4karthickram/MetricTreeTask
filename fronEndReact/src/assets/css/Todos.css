@@ -1,0 +1,5 @@
+.todo-item:hover {
+    text-decoration: line-through;
+    text-decoration-style: solid;
+    text-decoration-color: brown;
+}
